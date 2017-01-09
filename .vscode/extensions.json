@@ -1,0 +1,9 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		"donjayamanne.python",              // Python language extension with many, many things!
+		"bibhasdn.django-snippets",         // Commonly used Django snippets
+        "EditorConfig.EditorConfig"         // "Maintain consistent coding styles between IDEs"
+	]
+}
